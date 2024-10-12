@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:pdf_generator/pages/final_view.dart';
 
 class App extends StatelessWidget {
   const App({Key? key}) : super(key: key);
